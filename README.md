@@ -1,6 +1,4 @@
 # Healthcare Analytics
-# Dashboard Preview
-![Healthcare Dashboard](Screenshots/DashBoard.png)
 
 ## Project Overview
 
@@ -10,6 +8,9 @@ insurance coverage, medications, and test results.
 
 The project uses Python for EDA and feature engineering, SQL for analytical
 queries, and Excel for dashboard development.
+
+# Dashboard Preview
+![Healthcare Dashboard](Screenshots/DashBoard.png)
 
 ## Tools & Technologies
 
