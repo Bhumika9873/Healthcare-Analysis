@@ -1,4 +1,6 @@
 # Healthcare Analytics
+# Dashboard Preview
+![Healthcare Dashboard](Screenshots/DashBoard.png)
 
 ## Project Overview
 
